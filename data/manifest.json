@@ -1,0 +1,134 @@
+{
+  "secciones": [
+    {
+      "codigo": "01",
+      "titulo": "PAC",
+      "items": []
+    },
+    {
+      "codigo": "02",
+      "titulo": "Plan Ensayos",
+      "items": []
+    },
+    {
+      "codigo": "03",
+      "titulo": "Objetivos Calidad",
+      "items": []
+    },
+    {
+      "codigo": "04",
+      "titulo": "Programación y Comunicaciones de Obra",
+      "items": [
+        {
+          "titulo": "Solicitud de apertura de tajo – PI 26+950",
+          "ruta": "registros/04_Programacion_y_Comunicaciones/2025-09-19_apertura-tajo_PI-26950.html",
+          "tags": ["PPI","apertura","obra"],
+          "fecha": "2025-09-19",
+          "estado": "Aprobado"
+        }
+      ]
+    },
+    {
+      "codigo": "05",
+      "titulo": "Trazabilidad",
+      "items": []
+    },
+    {
+      "codigo": "06",
+      "titulo": "PPI",
+      "items": []
+    },
+    {
+      "codigo": "07",
+      "titulo": "Equipos, Maquinaria y Tajos",
+      "items": []
+    },
+    {
+      "codigo": "08",
+      "titulo": "Calibración",
+      "items": []
+    },
+    {
+      "codigo": "09",
+      "titulo": "Certificados y Materiales",
+      "items": [
+        {
+          "titulo": "Nafuflex Basic 1 – Presentación y DOP",
+          "ruta": "registros/09_Certificados_y_Materiales/2025-09-19_presentacion-nafuflex.html",
+          "tags": ["material","impermeabilización","DOP","SDS","TDS"],
+          "fecha": "2025-09-19",
+          "estado": "Borrador"
+        }
+      ]
+    },
+    {
+      "codigo": "10",
+      "titulo": "No Conformidades",
+      "items": []
+    },
+    {
+      "codigo": "11",
+      "titulo": "Control Calidad (Asistencia)",
+      "items": []
+    },
+    {
+      "codigo": "12",
+      "titulo": "Cálculos y Notas Técnicas",
+      "items": []
+    },
+    {
+      "codigo": "13",
+      "titulo": "Control Geométrico",
+      "items": []
+    },
+    {
+      "codigo": "14",
+      "titulo": "Control Planos",
+      "items": []
+    },
+    {
+      "codigo": "15",
+      "titulo": "Laboratorio",
+      "items": []
+    },
+    {
+      "codigo": "16",
+      "titulo": "Documentación General",
+      "items": []
+    },
+    {
+      "codigo": "17",
+      "titulo": "Control Económico – Calidad de Obra",
+      "items": []
+    },
+    {
+      "codigo": "18",
+      "titulo": "Normativas",
+      "items": []
+    },
+    {
+      "codigo": "19",
+      "titulo": "Pruebas Finales",
+      "items": []
+    },
+    {
+      "codigo": "20",
+      "titulo": "Auditorías",
+      "items": []
+    },
+    {
+      "codigo": "21",
+      "titulo": "Informes Mensuales",
+      "items": [
+        {
+          "titulo": "Comunicación Técnica – Clasificación de Suelos",
+          "ruta": "registros/21_Informes_Mensuales/2025-09-19_submision-suelos.html",
+          "tags": ["PG-3","suelos","DF","clasificación"],
+          "fecha": "2025-09-19",
+          "estado": "Enviado"
+        }
+      ]
+    }
+  ]
+}
+
